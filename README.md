@@ -1,2 +1,2 @@
 # Studies
-My works and studies in master degree
+My works and studies in master degree and random stuff.
