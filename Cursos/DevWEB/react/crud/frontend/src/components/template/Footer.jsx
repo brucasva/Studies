@@ -3,5 +3,8 @@ import React from 'react'
 
 export default props => 
     <footer className="footer">
-        Rodapé
+        <span>
+            Desenvolvido com por 
+            <strong> <span className='text-danger'>B</span>runo</strong>
+        </span>
     </footer>
